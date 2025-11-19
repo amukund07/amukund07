@@ -1,3 +1,4 @@
+# It's an good prank to play with user to give them a interactive feeling with app
 input("enter to proceed")
 name=input("your name")
 print("welcome",name)
@@ -23,4 +24,5 @@ else:
     print("incorrect password")
     print("Security breach detected... Initiating lockdown sequence!")
     input("enter to save your life")
+
     print("your life has been spared try again")
