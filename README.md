@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Amritanshu Mukund 👋
 
-<!--
-**amukund07/amukund07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me**  
+I'm a student at RNSIT and beginner developer who enjoys building small projects and improving my logic skills. Right now I'm focused on Python and ML, and I'm slowly building a collection of useful scripts and beginner projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python, C (beginner)  
+- **Tools:** Git, GitHub, VS Code  
+- **Learning:** Machine learning
+
+---
+
+## 🚀 Projects
+- **Python Projects** — A collection of small Python scripts and beginner apps.  
+- More projects coming as I keep learning and experimenting.
+
+---
+
+## 📫 Get In Touch
+- **LinkedIn:** www.linkedin.com/in/amritanshu-mukund-00x75
+
+---
+
+## 🎯 Currently Working On
+- Improving fundamentals  
+- Making cleaner and more structured Python projects  
+- learning ML
+- Building my GitHub portfolio
+
+---
+
+## ⚡ Fun Fact
+I learn best by building things — even tiny scripts teach me something new every day.
