@@ -1,3 +1,4 @@
+# It's a quiz which ask 10 random questions and scores how much you scored
 import random
 def get_que():
    
@@ -47,5 +48,6 @@ for i in range(1,11):
         print("correct your current score is= ",score)
     else:
         print("incorrect your current score is= ",score)
+
 
 print("Your final score is ",score)
