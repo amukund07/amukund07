@@ -33,3 +33,5 @@ I'm a student at RNSIT and beginner developer who enjoys building small projects
 
 ## ⚡ Fun Fact
 I learn best by building things — even tiny scripts teach me something new every day.
+I'm also interested in photography.
+@framedbyaadi
