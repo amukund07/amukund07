@@ -1,4 +1,5 @@
 # It's a quiz which ask 10 random questions and scores how much you scored
+# But the question in in Quiz.txt so include that as well
 import random
 def get_que():
    
@@ -51,3 +52,4 @@ for i in range(1,11):
 
 
 print("Your final score is ",score)
+
