@@ -15,12 +15,12 @@ I'm a student at RNSIT and beginner developer who enjoys building small projects
 ## 🚀 Projects
 - **Python Projects** — A collection of small Python scripts and beginner apps.  
 - More projects coming as I keep learning and experimenting.
+- Making ML Models
 
 ---
 
 ## 📫 Get In Touch
 - **LinkedIn:** www.linkedin.com/in/amritanshu-mukund-00x75
-
 ---
 
 ## 🎯 Currently Working On
@@ -35,3 +35,4 @@ I'm a student at RNSIT and beginner developer who enjoys building small projects
 I learn best by building things — even tiny scripts teach me something new every day.
 I'm also interested in photography.
 @framedbyaadi
+- **Instagram:** https://www.instagram.com/framedbyaadi/
