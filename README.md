@@ -20,7 +20,7 @@ I'm a student at RNSIT and beginner developer who enjoys building small projects
 ---
 
 ## 📫 Get In Touch
-- **LinkedIn:** www.linkedin.com/in/amritanshu-mukund-00x75
+- **LinkedIn:** .[Amritanshu Mukund]_(https://www.linkedin.com/in/amritanshu-mukund-00x75)_
 ---
 
 ## 🎯 Currently Working On
