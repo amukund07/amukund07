@@ -1,7 +1,3 @@
-Here’s a cleaner, sharper version of your GitHub README that reflects your current progress and sounds more confident and structured:
-
----
-
 # Hi, I'm Amritanshu Mukund 👋
 
 ## 💡 About Me
